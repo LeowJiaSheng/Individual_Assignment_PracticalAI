@@ -1,0 +1,2 @@
+endpoint = "https://practical-ai.cognitiveservices.azure.com/"
+key = "1Dw6IpfjAbhczYDphwCnn1vJZEA2vfCJO6clhhuWvTZKa0LBuGuVJQQJ99AKACqBBLyXJ3w3AAAFACOGXxto"
